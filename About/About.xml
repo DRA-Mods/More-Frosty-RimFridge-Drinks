@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+  <packageId>Dra.MoreFrostyRimFridge</packageId>
+  <name>More Frosty RimFridge Drinks</name>
+  <supportedVersions>
+    <li>1.3</li>
+  </supportedVersions>
+  <author>Sokyran</author>
+  <!--<url>https://github.com/</url>-->
+  <description>
+    A mod that adds more drinks that can become frosty with RimFridge, making them give positive boost when drank.
+
+    Tested on 1.3, but there's a high chance it'll work on other versions.
+
+    Compatible mods:
+    - Blueberries
+    - Coca Cola And Pepsi Mod
+    - CuproPanda's Drinks
+    - Fungihol
+    - GingerAle
+    - Grains and Brewing
+    - Irn Bru And Other Scottish Delights
+    - Milk Dragon
+    - More Archotech Garbage
+    - MorrowRim - Alcohol Remade
+    - Randy Burger - Fast Food set
+    - RimCuisine 2: Bottling And Booze
+    - RimCuisine 2: Core
+    - Rotmeth
+    - Russian traditional food
+    - Simple Sake
+    - Smokeleaf Industry Reborn
+    - Vanilla Brewing Expanded
+    - Vanilla Factions Expanded - Medieval
+    - Vanilla Factions Expanded - Pirates
+    - Vanilla Factions Expanded - Settlers
+    - Vanilla Plants Expanded
+    - VGP Vegetable Garden
+    - VGP Garden Drinks
+    - VGP Garden Drinks UF
+    - VGP Garden Gourmet
+    - Winery, Wine Making and Ageing
+
+    Feel free to suggest more, I'm open for suggestions!
+
+    Do you like my mods? You can support me on Ko-Fi: https://ko-fi.com/sokyran
+  </description>
+  <modDependencies>
+    <li>
+      <packageId>rimfridge.kv.rw</packageId>
+      <displayName>[KV] RimFridge</displayName>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/</downloadUrl>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1180721235</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>ccl.patchoperation.highlander</packageId>
+      <displayName>PatchOperationHighlander</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2552002158</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Ludeon.RimWorld</li>
+    <li>rimfridge.kv.rw</li>
+    <li>ccl.patchoperation.highlander</li>
+  </loadAfter>
+</ModMetaData>
