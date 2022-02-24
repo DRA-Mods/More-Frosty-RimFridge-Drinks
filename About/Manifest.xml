@@ -3,6 +3,6 @@
 <Manifest>
   <identifier>MoreFrostyRimFridge</identifier>
   <version>1.0</version>
-  <!--<manifestUri>https://raw.githubusercontent.com/rwmt/Multiplayer/master/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/rwmt/Multiplayer/releases/latest</downloadUri>-->
+  <!--<manifestUri></manifestUri>-->
+  <downloadUri>https://github.com/DRA-Mods/More-Frosty-RimFridge-Drinks</downloadUri>
 </Manifest>
