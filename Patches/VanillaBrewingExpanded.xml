@@ -33,6 +33,7 @@
         <li>VBE_Tequila</li>
         <li>VBE_Vodka</li>
         <li>VBE_Whiskey</li>
+        <li>VBE_DoubleWhiskey</li>
       </value>
     </match>
   </Operation>
