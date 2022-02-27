@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Excluded>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MoreFrostyRimFridgeDrinks\.git</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MoreFrostyRimFridgeDrinks\.vs</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MoreFrostyRimFridgeDrinks\Source\.vs</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MoreFrostyRimFridgeDrinks\Source\MoreFrostyRimFridgeDrinks\.vs</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\MoreFrostyRimFridgeDrinks\Source\MoreFrostyRimFridgeDrinks\obj</exclude>
+  </Excluded>
+</Configuration>
