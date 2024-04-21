@@ -18,6 +18,7 @@ A mod that adds more drinks that can become frosty with RimFridge, making them g
 Tested on 1.3 and 1.4, but there's a high chance it'll work on other versions.
 
 Compatible mods:
+- Bill Doors' Berry Expanded
 - Blueberries
 - ChocoCola
 - Coca Cola And Pepsi Mod
@@ -26,6 +27,7 @@ Compatible mods:
 - Fungihol
 - GingerAle
 - Grains and Brewing
+- Hemogen Cuisine
 - Irn Bru And Other Scottish Delights
 - Milk Dragon
 - Milkshakes - Digital Deluxe Edition
@@ -41,6 +43,7 @@ Compatible mods:
 - Simple Sake
 - Smokeleaf Industry Reborn
 - Star Trek: Races
+- Stoneborn - Delights
 - Vanilla Brewing Expanded
 - Vanilla Factions Expanded - Medieval
 - Vanilla Factions Expanded - Pirates
@@ -102,5 +105,6 @@ Feel free to suggest more, I'm open for suggestions!
     <li>rimfridge.kv.rw</li>
     <li>ccl.patchoperation.highlander</li>
     <li>MrKociak.MoreArchotechStuffandThingsReupload</li>
+    <li>Mallow.HemogenCuisine</li>
   </loadAfter>
 </ModMetaData>
